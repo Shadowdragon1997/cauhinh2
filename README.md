@@ -8,5 +8,5 @@ bash <(curl -Ls https://raw.githubusercontent.com/Shadowdragon1997/script/main/i
 ```
 ## Cài đặt phụ
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/Shadowdragon1997/script/main/installtest.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/Shadowdragon1997/script2/master/install.sh)
 ```
